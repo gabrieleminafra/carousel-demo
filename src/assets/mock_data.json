@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2010,
+    "images": ["placeholder_logo_1", "placeholder_logo_2"],
+    "milestone": "Acquisition of <b>Matteo Artista</b>"
+  },
+  {
+    "year": 2011,
+    "images": ["placeholder_logo_1", "placeholder_logo_2"],
+    "milestone": "Acquisition of <b>Gruppo Chiken</b>"
+  },
+  {
+    "year": 2012,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Pongo Group Broking: <b>Acquisition of Jama Trade </b>"
+  },
+  {
+    "year": 2013,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Franco Consulting and the activities of Master of Puppets "
+  },
+  {
+    "year": 2014,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Whitesnake and <b>ACDC</b>"
+  },
+  {
+    "year": 2015,
+    "images": ["placeholder_logo_1", "placeholder_logo_2"],
+    "milestone": "Acquisition of <b>Matteo Artista</b>"
+  },
+  {
+    "year": 2016,
+    "images": ["placeholder_logo_2", "placeholder_logo_1"],
+    "milestone": "Acquisition of <b>Gruppo Chiken</b>"
+  },
+  {
+    "year": 2017,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Pongo Group Broking: <b>Acquisition of Jama Trade </b>"
+  },
+  {
+    "year": 2018,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Franco Consulting and the activities of Master of Puppets "
+  },
+  {
+    "year": 2019,
+    "images": ["placeholder_logo_2"],
+    "milestone": "Acquisition of Whitesnake and <b>ACDC</b>"
+  },
+  {
+    "year": 2020,
+    "images": ["placeholder_logo_1", "placeholder_logo_2"],
+    "milestone": "Acquisition of <b>Matteo Artista</b>"
+  },
+  {
+    "year": 2021,
+    "images": ["placeholder_logo_1", "placeholder_logo_1"],
+    "milestone": "Acquisition of <b>Gruppo Chiken</b>"
+  },
+  {
+    "year": 2022,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Pongo Group Broking: <b>Acquisition of Jama Trade </b>"
+  },
+  {
+    "year": 2023,
+    "images": ["placeholder_logo_1"],
+    "milestone": "Acquisition of Franco Consulting and the activities of Master of Puppets "
+  }
+]

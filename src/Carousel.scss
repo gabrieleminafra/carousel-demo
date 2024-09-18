@@ -1,0 +1,68 @@
+$standard_radius: 8px;
+$inactive_color: #9ca3af;
+$active_color: #005eff;
+
+.carousel {
+  position: relative;
+
+  &__rail {
+    position: absolute;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    justify-items: center;
+    align-items: self-end;
+    overflow: hidden;
+    transition: 0.5s left ease-in-out;
+  }
+
+  &__controls {
+    position: fixed;
+    display: flex;
+    gap: 10px;
+    right: 20px;
+    top: 600px;
+
+    &__button {
+      border: 1px solid $active_color;
+      background-color: #fff;
+      border-radius: 4px;
+      padding: 10px 12px;
+    }
+  }
+
+  &__entry {
+    display: flex;
+    flex-direction: column;
+    max-width: 12rem;
+    gap: 10px;
+
+    &__section {
+      border-radius: $standard_radius;
+      border: 2px solid $inactive_color;
+      display: grid;
+      place-content: center;
+      text-align: center;
+      padding: 10px 30px;
+    }
+
+    &--image {
+      overflow: hidden;
+      height: 6rem;
+    }
+
+    &--milestone {
+      min-height: 200px;
+      flex-grow: 1;
+    }
+
+    &--year {
+      font-size: 30px;
+    }
+  }
+
+  .active {
+    transition: 0.5s border ease-in-out;
+    border: 2px solid $active_color;
+  }
+}
