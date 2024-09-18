@@ -17,7 +17,7 @@ const CarouselEntry: FC<CarouselEntryInterface> = ({
           }`}>
           <img
             style={{ width: "10rem" }}
-            src={`/${image}.png`}
+            src={`${image}.png`}
             alt={milestone}
           />
         </div>
