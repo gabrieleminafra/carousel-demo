@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.76232531.css",
-    "main.js": "/static/js/main.0ffca312.js",
-    "index.html": "/index.html",
-    "main.76232531.css.map": "/static/css/main.76232531.css.map",
-    "main.0ffca312.js.map": "/static/js/main.0ffca312.js.map"
+    "main.css": "/carousel-demo/static/css/main.76232531.css",
+    "main.js": "/carousel-demo/static/js/main.0ffca312.js",
+    "index.html": "/carousel-demo/index.html",
+    "main.76232531.css.map": "/carousel-demo/static/css/main.76232531.css.map",
+    "main.0ffca312.js.map": "/carousel-demo/static/js/main.0ffca312.js.map"
   },
   "entrypoints": [
     "static/css/main.76232531.css",
