@@ -1,4 +1,4 @@
-import React, { FC, ReactNode, useEffect, useRef, useState } from "react";
+import React, { FC, useEffect, useRef, useState } from "react";
 import CarouselEntry from "./components/CarouselEntry.tsx";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 

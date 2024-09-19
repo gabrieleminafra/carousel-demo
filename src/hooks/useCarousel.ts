@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const useCarousel = (items) => {
   const [currentIndex, setCurrentIndex] = useState(0);
