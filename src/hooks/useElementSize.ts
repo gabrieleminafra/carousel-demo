@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-export const useElementSize = (element) => {
+const useElementSize = (element) => {
   const [width, setWidth] = useState(0);
 
   useEffect(() => {
@@ -21,3 +21,5 @@ export const useElementSize = (element) => {
 
   return width;
 };
+
+export default useElementSize;

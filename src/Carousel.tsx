@@ -3,12 +3,11 @@ import CarouselEntry from "./components/CarouselEntry.tsx";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
 import useCarousel from "./hooks/useCarousel.ts";
+import useElementSize from "./hooks/useElementSize.ts";
 import useWindowCenterPoint from "./hooks/useWindowCenterPoint.ts";
 
 import CAROUSEL_DATA from "./assets/mock_data.json";
 import "./Carousel.scss";
-
-import { useElementSize } from "./hooks/useElementSize.ts";
 
 export interface CarouselEntryInterface {
   isActive: boolean;
